@@ -1,0 +1,2 @@
+alert("Pakistan" + "Zindaabad");
+
